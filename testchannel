@@ -5994,7 +5994,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 
 =============================================== BWF | BADMINTON =====================================================
 
-EXTINF:-1 group-logo="https://i.ibb.co.com/gZDmsrv/BWF-logo-svg.png" group-title="B W F" tvg-id="spotv.kr" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg",SPOTV HD
+EXTINF:-1 group-logo="https://i.ibb.co.com/gZDmsrv/BWF-logo-svg.png" group-title="BWF" tvg-id="spotv.kr" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg",BWF HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
 #EXTVLCOPT:http-referrer=https://visionplus.id
