@@ -6086,6 +6086,8 @@ http://xtv.ooo:8080/live/miqbal/989796/350997.m3u8
 
 ================================================ UEFA | EURO GERMANY =========================================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co/Jcr9ZDP/FB-IMG-1633559295727-copy-576x720.jpg",
+
 #EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="⚽UEFA | EURO 2024⚽" tvg-id="" tvg-logo="https://i.ibb.co/XCmSpxY/euro24htv.png", EURO GERMANY 2024
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
