@@ -4222,7 +4222,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 
 
 
-VOD INDO
+===================================================VOD INDO===========================================================
 
 
 
@@ -4437,37 +4437,7 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-################ VISION+ ##############
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<================================================ HBO Group ==================================================================>
+<================================================ HBO GROUP ==================================================================>
 
 HBO GRUB
 
@@ -4608,29 +4578,7 @@ https://play.gachor99.my.id:443/hmtv_lite/9y6wjuXKf7/129
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-///RELIGI///
-
-
+====================================================== RELIGI ========================================================
 
 
 
@@ -4758,17 +4706,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-========== BRI LIGA 1 =========
+================================================ BRI LIGA 1 =========================================================
 
 
 #EXTINF:-1 group-title="CHANNEL | BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://i.ibb.co.com/WVFwBCS/BRI-LIGA-1.jpg",Liga 1
@@ -4811,7 +4749,9 @@ http://iptvtree.net:8080/c4596f70/c3848d92/162138
 
 
 
-///// ENTERTAINMENT /////
+================================================== ENTERTAINMENT ====================================================
+
+
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/gemtvasia.com/files/logos/logo-small_0.png" group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE", Sony GEM
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
@@ -4843,7 +4783,8 @@ http://liveaneviadev.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPrem
 http://liveaneviadev.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
-/////🕺🥳 LIFESTYLE /////
+=============================================== 🕺🥳 LIFESTYLE ======================================================
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NWFkYWNhMzctNzc0Yy0zYTBiLWFiOGYtODMxYzM2YWM1MDg4
 #EXTINF:-1 group-title="CHANNEL | ENTERTAIMENT & LIFESTYLE" tvg-logo="https://github.com/Qingtvnew/test/raw/main/tlc.png", TLC
@@ -4877,59 +4818,8 @@ http://liveaneviadev.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFa
 
 
 
+<============================================ CHANNEL JAPAN ========================================================>
 
-
-
-
-
-
-
-
-
-
-
-///// MUSIK /////
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIC TV🔻
-http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#EXTINF:-1 group-title="CHANNEL | MUSIC" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
-
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="CHANNEL | MUSIC", KPOP
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
-#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="CHANNEL | MUSIC", KPOP2
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="CHANNEL | MUSIC",MTV Live
-https://bit.ly/46646g0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-id="MTV90s" tvg-url="" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="CHANNEL | MUSIC",MTV 90s
-https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Now4K%20HD-FM-Chl-345.jpg" group-title="CHANNEL | MUSIC",Stingray Now
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynow.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Djazz%20HD-FirstMedia-Chl-334.jpg" group-title="CHANNEL | MUSIC",Stingray Jazz
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayjazz.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="CHANNEL | MUSIC",Stingray Festival
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
-
-#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="CHANNEL | MUSIC", Citra Dangdut
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="CHANNEL | MUSIC",Nagaswara Dangdut
-https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="CHANNEL | MUSIC",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-
-
-
-
-<======================= Japan Channel ===============================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="CHANNEL | JAPAN" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
@@ -5146,21 +5036,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=10&b
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
+============================================ CHANNEL VISION ==========================================================
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======================Channel Vision=================================
 #EXTINF:-1 group-title="CHANNEL | VISION+" tvg-id="https://i.ibb.co.com/3Sq8rfW/RCTI.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -5691,7 +5568,7 @@ https://melon-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 
 
 
-<========================= China ====================================>
+<================================================= CHINA ===========================================================>
 
 
 <========================= China ====================================>
@@ -5726,15 +5603,7 @@ https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mp
 https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
-
-
-
-
-
-
-
-
-<================ Korean Channels ===================>
+<=========================================== Korean Channels =======================================================>
 
 
 <================ Korean Channels ===================>
@@ -5839,7 +5708,7 @@ https://bit.ly/43doSc7
 #EXTINF:-1 tvg-id="6108" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="CHANNEL | TAIWAN",TAIWAN+
 https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
 
-////SET TW////
+================================================ TAIWAN ==============================================================
 
 #EXTINF:-1 tvg-id="6108" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="CHANNEL | TAIWAN",SET 三立iNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
@@ -5871,15 +5740,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/China_TV_logo_since_19971030.svg/440px-China_TV_logo_since_19971030.svg.png" group-title="CHANNEL | TAIWAN",CTV 中视 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/CTS_LOGO_3.png" group-title="CHANNEL | TAIWAN",CTS 华视 
 
-
-
-
-
-
-
-
-
-
+================================================= BEIN SPORT =========================================================
 
 #EXTINF:-1 group-title="CHANNEL | BEIN SPORTS" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",beIN Sport Xtra
 #http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
