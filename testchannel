@@ -6087,7 +6087,7 @@ http://xtv.ooo:8080/live/miqbal/989796/350997.m3u8
 ================================================ UEFA | EURO GERMANY =========================================================
 
 
-#EXTINF:-1 group-logo="https://i.ibb.co/QkVS5wn/EURO.png" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="⚽UEFA | EURO 2024⚽" tvg-id="" tvg-logo="https://i.ibb.co/XCmSpxY/euro24htv.png", EURO GERMANY 2024
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png" tvg-id="Sportstars 3 - [Channel 99].id" tvg-name="Sportstars 3" group-title="⚽UEFA | EURO 2024⚽" tvg-id="" tvg-logo="https://i.ibb.co/XCmSpxY/euro24htv.png", EURO GERMANY 2024
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
