@@ -5170,6 +5170,13 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg" group-title="CHANNEL | BWF",beIN Sports 3 (Indihome)
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
+#EXTINF:-1 group-title="CHANNEL | BWF" tvg-id="sportstars2.id" tvg-logo="https://i.ibb.co.com/rtfsHVf/kk229520-clip10.jpg",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
 
 =================================================== WWE/SMACK DOWN ======================================================
 
